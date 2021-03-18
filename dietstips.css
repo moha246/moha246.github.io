@@ -1,0 +1,88 @@
+html,body{
+    background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+    
+    .container{
+    height: 100%;
+    align-content: center;
+    }
+    
+    .card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+    }
+    
+    .social_icon span{
+    font-size: 60px;
+    margin-left: 10px;
+    color: #FFC312;
+    }
+    
+    .social_icon span:hover{
+    color: white;
+    }
+.panel {
+    border-radius: 2;
+    margin-left: 16.67%;
+    margin-right: 16.67%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-color: #d6d5d1;
+    border: 1px solid transparent;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+    overflow: hidden;
+}
+.bow {
+    border-top: 1px solid #d6d5d1;
+    padding: 0;
+}
+.rown{
+    display: grid;
+    margin: 0%;
+}
+.btn.big {
+    font-family: HelveticaNeueLTStd-Md;
+    height: 2.625rem;
+    line-height: 2.625rem;
+    font-size: 1rem;text-transform: uppercase;
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    transition: all 0.3s linear;
+}
+.btn.big:hover {
+        box-shadow: rgba(0, 0, 0, 0.062) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px; 
+}
+
+.panel-footer {
+    padding: 20px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.mok{
+    
+    margin-left:185px ;
+    
+}
+.panel-title{
+    font-family: HelveticaNeueLTStd-Md;
+    color: dimgray;
+}
+h1{
+    font-family: HelveticaNeueLTStd-Md;
+    color: dimgray;
+    font-size: 150%;
+    margin-top: 5%;
+    margin-left: 197px;
+    margin-bottom: 0%;
+}
+p{
+    margin-top: 2%;
+    font-stretch: expanded;
+}

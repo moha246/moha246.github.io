@@ -1,0 +1,239 @@
+
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('images/workout\ 2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+   .texts {
+     margin-top: 20rem;
+    margin-left: 3rem !important;
+    font-size:4vw;
+    color: white; 
+  }
+  .panel {
+    border-radius: 2;
+    margin-left: 16.67%;
+    margin-right: 16.67%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-color: #d6d5d1;
+    border: 1px solid transparent;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+    overflow: hidden;
+}
+.panel-heading {
+    position: relative;
+    padding: 20px 20px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.bow {
+    border-top: 1px solid #d6d5d1;
+    padding: 0;
+}
+.rown{
+    display: flex;
+    margin: 0%;
+}
+/* .btn-prmary {
+    background-color: #00b2f0;
+    color: white;
+    border: none;
+    border-radius: 0;
+    text-decoration: none;
+    background-image: none;
+    text-shadow: none;
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+   
+    
+} */
+ .btn.big {
+    font-family: HelveticaNeueLTStd-Md;
+    height: 2.625rem;
+    line-height: 2.625rem;
+    font-size: 1rem;text-transform: uppercase;
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    transition: all 0.3s linear;
+}
+.btn.big:hover {
+        box-shadow: rgba(0, 0, 0, 0.062) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px; 
+}
+
+.panel-footer {
+    padding: 20px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.products-section {
+    min-height: 340px;
+}
+
+.rown{
+    margin-top: 10px;
+}   
+
+.products-section{
+    color: #777;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.cent{
+    margin-top: 4%;
+    margin-left: 37%;
+    
+}
+h3{
+    text-align:center;
+    color: #777;
+}
+ 
+.move{
+    margin-left: 50%;
+}
+.d-cl{
+    color: #777;
+    margin-left: 69;
+}
+/* .nav-link :hover{
+    color: #777; 
+} */
+
+.full {
+    width: 100%;    
+}
+.gap {
+	height: 30px;
+	width: 100%;
+	clear: both;
+	display: block;
+}
+.footer {
+	background: #002147;
+	height: auto;
+	padding-bottom: 30px;
+	position: relative;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	border-top: 1px solid #DDDDDD;
+}
+.footer p {
+	margin: 0;
+}
+.footer img {
+	max-width: 100%;
+}
+.footer h3 {
+	color: white;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 27px;
+	padding: 40px 0 0px;
+	text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.footer h4 {
+	color: white;
+	font-size: 2em;
+	font-weight: 600;
+	line-height: 38px;
+	padding: 40px 0 10px;
+	font-family: cursive;
+  font-weight: lighter
+}
+
+.footer ul {
+	font-size: 13px;
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 0px;
+	color: #7F8C8D;
+  padding: 0 0 8px 0;
+}
+
+.email{
+  border-bottom: 3px solid #fff;
+}
+.footer ul li a {
+	padding: 0 0 12px 0;
+	display: block;
+}
+.footer a {
+	color: white;
+  font-weight: lighter;
+}
+
+.footer p {
+	color: white;
+  font-weight: lighter;
+  font-size: none;
+}
+
+.footer a:hover {
+	text-decoration:none;
+  font-weight: bold;
+}
+.supportLi h4 {
+	font-size: 20px;
+	font-weight: lighter;
+	line-height: normal;
+	margin-bottom: 0 !important;
+	padding-bottom: 0;
+}
+
+.bg-gray {
+	background-image: -moz-linear-gradient(center bottom, #BBBBBB 0%, #F0F0F0 100%);
+	box-shadow: 0 1px 0 #B4B3B3;
+}
+
+.footer a {
+	color: #78828D
+}
+
+.footer-bottom {
+  margin-top: 2em;
+	border-top: 1px solid #DDDDDD;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.footer-bottom p.pull-left {
+	padding-top: 6px;
+  font-size: 0.75em
+}
+
+/* .yusuf{
+  margin-top: 5%;
+  margin-left: 8%;
+  margin-right: 70%;
+} */
+.faruk{
+  display:inline-block;
+}
+
+
+
+  .bag {  
+  text-align: center;
+  }  
+
+
+
+
